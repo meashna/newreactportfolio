@@ -15,17 +15,17 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        " Had volunteerd robotic stores at KIDGLOVE- KOOTTU 2022 a Kerala Police Initiative to Protect Children in Cyberspace on July 26th, 2022",
     },
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Mentored thousands of students all over kerela  at IEDC Summit'22 for FIGMA . I just introduced about figma and teach how to use it . ",
     },
     {
       img: profilePic3,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "As a volunteer at Hackaway pre-event . Also build website for the same...such a great experience❤️",
     },
     
   ];

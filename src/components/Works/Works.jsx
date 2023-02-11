@@ -30,8 +30,7 @@ const Works = () => {
             <h1>JS , React , Node , FireBase , Github ... </h1>
             <br />
             I had done many projects using this .
-            <br />
-            Also I have a talent in Public Speaking , Mentoring , Social media managing ...
+          
           </spane>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>

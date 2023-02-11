@@ -8,12 +8,7 @@ const Card2 = ({emoji, heading, detail, color}) => {
       <span>{heading}</span>
       <span>{detail}</span>
     
-      <a   href="https://github.com"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer">
-        <button className="c-button">View projects</button>
-        </a>
+     
     </div>
   );
 };

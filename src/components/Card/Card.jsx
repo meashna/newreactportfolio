@@ -7,18 +7,13 @@ const Card = ({emoji, heading, detail, color}) => {
       <img src={emoji} alt="" />
       <span>{heading}</span>
       <span>{detail}</span>
-      <a   href="https://github.com"
+      <a   href="https://hackaway.hackclub.com/index.html"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer">
         <button className="c-button">Website for a Hackathon</button>
         </a>
-        <a   href="https://github.com"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer">
-        <button className="c-button">Website for a Community</button>
-        </a>
+        
 
     </div>
   );

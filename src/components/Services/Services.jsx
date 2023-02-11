@@ -6,7 +6,6 @@ import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './resume.pdf';
 import Card2 from "../Card2/Card2";
 import Card3 from "../Card3/Card3";
 
@@ -63,8 +62,8 @@ const Services = () => {
         >
           <Card2
             emoji={HeartEmoji}
-            heading={"Figma "}
-            detail={""}
+            heading={"Hobbies"}
+            detail={"I enjoying  a lot in reading and watching mystery , thriller and horror films 😁  . Also I am obsessed with rain , nature  , and travel....Yeah sure...I am a person who loves loneliness"}
             
             
           />
@@ -83,7 +82,7 @@ const Services = () => {
           <Card
             emoji={Glasses}
             heading={"Developer"}
-            detail={" "}
+            detail={" Have a  look  at some of my applications 😂"}
           />
         </motion.div>
         {/* 3rd */}
@@ -96,7 +95,7 @@ const Services = () => {
             emoji={Humble}
             heading={"UI/UX"}
             detail={
-              " "
+              "Some of my designs 😂 are here...don't miss it "
             }
             color="rgba(252, 166, 31, 0.45)"
           />

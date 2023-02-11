@@ -30,8 +30,10 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Ashna T</span>
           <span>
-            Frontend Developer with high level of experience in web designing
-            and development, producting the Quality work
+            Hai peeps !! A passion for technology,
+             a love for problem-solving, and an unwavering dedication to craftsmanship. 
+             Whether it's creating seamless user experiences or developing custom applications, 
+             I approach each project with a focus on innovation and creativity.
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>

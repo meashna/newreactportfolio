@@ -56,7 +56,7 @@ const Projects = () => {
           <div className="portfolio_items-image">
             <img src={img2} alt=""/>
           </div>
-          <h3>A  react website build w  for a Community . </h3>
+          <h3>A  react website build  for a Community . </h3>
           <div className="portfolio_items-cta">
                 <a   href="https://github.com/meashna/HC-Website"
                       style={{ color: "white" }}
@@ -105,7 +105,7 @@ const Projects = () => {
           <div className="portfolio_items-image">
             <img src={img4} alt=""/>
           </div>
-          <h3>React Calculator </h3>
+          <h3>React Calculator made for learning . </h3>
           <div className="portfolio_items-cta">
                 <a   href="https://github.com/meashna/React-calculator"
                       style={{ color: "white" }}

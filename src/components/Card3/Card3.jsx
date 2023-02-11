@@ -8,7 +8,7 @@ const Card3 = ({emoji, heading, detail, color}) => {
       <span>{heading}</span>
       <span>{detail}</span>
     
-      <a   href="https://github.com"
+      <a   href="https://www.figma.com/proto/VfSwGeaLEjSq95xiPZADXv/PORTFOLIO?node-id=1%3A48&scaling=min-zoom&page-id=0%3A1"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer">
