@@ -28,6 +28,8 @@
   color: var(--gray);
   font-size: 14px;
   margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  
 }
 .s-button {
   width: 8rem;
@@ -134,3 +136,4 @@
   }
 
 }
+

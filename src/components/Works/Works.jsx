@@ -20,15 +20,17 @@ const Works = () => {
       <div className="w-left">
         <div className="awesome">
           {/* dark Mode */}
+         
           <span style={{ color: darkMode ? "white" : "" }}>
+            <br></br>
+            <br></br>
             Works for All these
           </span>
           <span>MY SKILLS</span>
+          
           <spane>
-            I have quite good skills in 
-            <br />
-            <h1>JS , React , Node , FireBase , Github ... </h1>
-            <br />
+            I have quite good skills in        
+            JS , React , Node , FireBase , Github ... 
             I had done many projects using this .
           
           </spane>
