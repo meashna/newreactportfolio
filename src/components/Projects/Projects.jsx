@@ -10,7 +10,7 @@ import img5 from "../../img/drumpad.png";
 import img4 from "../../img/reactcalc.png";
 import React, { useContext } from "react";
 import { themeContext } from "../../Context";
-
+import { Link } from "react-scroll";
 
 
 
@@ -82,19 +82,21 @@ const Projects = () => {
           </div>
           <h3>Portfolio website of me . </h3>
           <div className="portfolio_items-cta">
-                <a   href="https://github.com/Hack-Club-Kmea/hackaway-website"
+                <a   href="https://github.com/meashna/newreactportfolio"
                       style={{ color: "white" }}
                       target="_blank" 
                       rel="noopener noreferrer">
               <button className="button i-button">Github</button>
               </a>
 
-              <a   href="https://hackaway.hackclub.com/index.html"
+              <a 
                       style={{ color: "white" }}
                       target="_blank" 
                       rel="noopener noreferrer">
               <button className="button i-button">Demo</button>
               </a>
+
+              
           
           </div>
           
