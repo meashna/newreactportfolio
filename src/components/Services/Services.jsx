@@ -43,7 +43,7 @@ const Services = () => {
           <br />
           and I have a strong understanding of  development methodologies and practices. 
         </spane>
-        <a   href="https://drive.google.com/file/d/1-1Bih-PFcpNEuPPI1YKbXpI8l7jRJ9de/view?usp=sharing"
+        <a   href="https://drive.google.com/file/d/1dPFKb_yMw-pSZwf2utUShKQjgNeyQ_2m/view?usp=sharing"
                       style={{ color: "white" }}
                       target="_blank" 
                       rel="noopener noreferrer">

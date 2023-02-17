@@ -30,7 +30,7 @@ const Works = () => {
           
           <spane>
             I have quite good skills in        
-            JS , React , Node , FireBase , Github ... 
+            JS , React , TypeScript , TailwindCSS , Node , FireBase , Github ... 
             I had done many projects using this .
           
           </spane>

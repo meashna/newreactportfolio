@@ -8,6 +8,7 @@ import img7 from "../../img/boatfigma.png";
 import img8 from "../../img/rock.png";
 import img5 from "../../img/drumpad.png";
 import img4 from "../../img/reactcalc.png";
+import img9 from "../../img/api.png";
 import React, { useContext } from "react";
 import { themeContext } from "../../Context";
 import { Link } from "react-scroll";
@@ -24,6 +25,32 @@ const Projects = () => {
       <h5>My Recent Works</h5>
       
       <div className=" portfolio_container">
+
+
+
+      <article className="portfolio_items">
+          <div className="portfolio_items-image">
+            <img src={img9} alt=""/>
+          </div>
+          <h3>Weather API build on TypeScript React Tailwind_css . </h3>
+          <div className="portfolio_items-cta">
+                <a   href="https://github.com/meashna/tsx_vite_weatherAPI"
+                      style={{ color: "white" }}
+                      target="_blank" 
+                      rel="noopener noreferrer">
+              <button className="button i-button">Github</button>
+              </a>
+
+              <a   href="https://tsx-weatherapi.netlify.app/"
+                      style={{ color: "white" }}
+                      target="_blank" 
+                      rel="noopener noreferrer">
+              <button className="button i-button">Site</button>
+              </a>
+          
+          </div>
+          
+        </article>
         
 
         
@@ -44,7 +71,7 @@ const Projects = () => {
                       style={{ color: "white" }}
                       target="_blank" 
                       rel="noopener noreferrer">
-              <button className="button i-button">Demo</button>
+              <button className="button i-button">Site</button>
               </a>
           
           </div>
@@ -69,7 +96,7 @@ const Projects = () => {
                       style={{ color: "white" }}
                       target="_blank" 
                       rel="noopener noreferrer">
-              <button className="button i-button">Demo</button>
+              <button className="button i-button">Site</button>
               </a>
           
           </div>
@@ -93,7 +120,7 @@ const Projects = () => {
                       style={{ color: "white" }}
                       target="_blank" 
                       rel="noopener noreferrer">
-              <button className="button i-button">Demo</button>
+              <button className="button i-button">Site</button>
               </a>
 
               
@@ -120,7 +147,7 @@ const Projects = () => {
                       style={{ color: "white" }}
                       target="_blank" 
                       rel="noopener noreferrer">
-              <button className="button i-button">Demo</button>
+              <button className="button i-button">Site</button>
               </a>
           
           </div>
@@ -145,7 +172,7 @@ const Projects = () => {
                       style={{ color: "white" }}
                       target="_blank" 
                       rel="noopener noreferrer">
-              <button className="button i-button">Demo</button>
+              <button className="button i-button">Site</button>
               </a>
           
           </div>
