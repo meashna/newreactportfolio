@@ -3,12 +3,13 @@
   --yellow:#003459;
     --orange : #007ea7;
     --black : #242D49;
-    --gray : #5f6d8d;
+    --gray : #000000;
     --blueCard : #DDF8FE;
     --purple: rgb(238 210 255);
     --boxShadow : 0px 19px 60px rgb(0 0 0 / 8%);
     --orangeCard: #003459;
     --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
+    font-weight: bolder;
 }
 
 .App{
@@ -40,6 +41,7 @@
 
     }
   }
+
 
   
 

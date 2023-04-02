@@ -30,8 +30,8 @@ const Works = () => {
           
           <spane>
             I have quite good skills in        
-            JS , React , TypeScript , TailwindCSS , Node , FireBase , Github ... 
-            I had done many projects using this .
+            JS , React ,  TailwindCSS , Node , FireBase , Github ... 
+  
           
           </spane>
           <Link to="contact" smooth={true} spy={true}>
